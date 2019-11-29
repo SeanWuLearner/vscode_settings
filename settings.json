@@ -1,0 +1,8 @@
+{
+  "window.zoomLevel": -1,
+  "editor.minimap.enabled": false,
+  "python.formatting.autopep8Args": [
+      "--indent-size=2"
+  ],
+  "editor.tabSize": 2
+}
